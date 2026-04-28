@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="dfCJpnGaR_Kh6U3yxTEa">
+    <mxGraphModel dx="1799" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z9vB7468pVRXrUXAiiRW-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;foaf:&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; https://xmlns.com/spec/&lt;/span&gt;&lt;/div&gt;&lt;div&gt;xsd: http://www.w3.org/2001/XMLSchema#&lt;/div&gt;&lt;div&gt;darp: https://w3id.org/data-analysis-research-papers/ontology#&lt;/div&gt;&lt;div&gt;dcterms: http://purl.org/dc/terms/&lt;/div&gt;&lt;div&gt;dbpedia-owl: http://dbpedia.org/ontology/&lt;/div&gt;&lt;div&gt;rdfs: http://www.w3.org/2000/01/rdf-schema#label&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="425.5" x="604.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z9vB7468pVRXrUXAiiRW-4" edge="1" parent="1" source="z9vB7468pVRXrUXAiiRW-7" style="endArrow=classic;html=1;exitX=1;exitY=0.7;exitDx=0;exitDy=0;endSize=8;arcSize=0;rounded=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" target="z9vB7468pVRXrUXAiiRW-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="690" y="305" as="sourcePoint" />
+            <mxPoint x="880" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9vB7468pVRXrUXAiiRW-5" connectable="0" parent="z9vB7468pVRXrUXAiiRW-4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" value="&lt;div&gt;darp:writes&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1269" as="geometry">
+            <mxPoint x="4.17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9vB7468pVRXrUXAiiRW-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;foaf:name xsd:string&lt;div&gt;darp:orcid xsd:string&lt;/div&gt;&lt;div&gt;darp:twitter_username xsd:string&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="500" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="z9vB7468pVRXrUXAiiRW-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="foaf:Person" vertex="1">
+          <mxGeometry height="30" width="179" x="500" y="269.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="z9vB7468pVRXrUXAiiRW-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="dcterms:title xsd:string&lt;div&gt;dcterms:abstract xsd:string&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="179" x="890" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="z9vB7468pVRXrUXAiiRW-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="darp:Paper" vertex="1">
+          <mxGeometry height="30" width="179" x="890" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="z9vB7468pVRXrUXAiiRW-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;foaf:name xsd:string&lt;div&gt;darp:ror_id xsd:string&lt;/div&gt;&lt;div&gt;dbpedia-owl:country xsd:string&lt;/div&gt;&lt;div&gt;darp:website xsd:anyURI&lt;/div&gt;&lt;div&gt;darp:org_type: xsd:string&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="130" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="z9vB7468pVRXrUXAiiRW-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="foaf:Organization" vertex="1">
+          <mxGeometry height="30" width="179" x="130" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="z9vB7468pVRXrUXAiiRW-12" edge="1" parent="1" source="z9vB7468pVRXrUXAiiRW-7" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endSize=8;arcSize=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="z9vB7468pVRXrUXAiiRW-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="289" y="339.29" as="sourcePoint" />
+            <mxPoint x="330" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9vB7468pVRXrUXAiiRW-13" connectable="0" parent="z9vB7468pVRXrUXAiiRW-12" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" value="darp:belongs_to" vertex="1">
+          <mxGeometry relative="1" x="-0.1269" as="geometry">
+            <mxPoint x="4.17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9vB7468pVRXrUXAiiRW-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="rdfs:label xsd:string" vertex="1">
+          <mxGeometry height="30" width="179" x="1220" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="z9vB7468pVRXrUXAiiRW-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="foaf:Topic" vertex="1">
+          <mxGeometry height="30" width="179" x="1220" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="z9vB7468pVRXrUXAiiRW-16" edge="1" parent="1" source="z9vB7468pVRXrUXAiiRW-9" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endSize=8;arcSize=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="z9vB7468pVRXrUXAiiRW-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1140" y="400" as="sourcePoint" />
+            <mxPoint x="1351" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9vB7468pVRXrUXAiiRW-17" connectable="0" parent="z9vB7468pVRXrUXAiiRW-16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" value="&lt;div&gt;darp:is_about&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1269" as="geometry">
+            <mxPoint x="4.17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
