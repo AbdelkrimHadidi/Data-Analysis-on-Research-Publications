@@ -1,7 +1,9 @@
 ## 3. Fuentes de Datos
 
+**Nota**: Para el desarollo de la ontología no se ha usado todas las fuentes propuestas pero se han dejado para uso futuro.
 
 El grafo se construye a partir de seis fuentes externas, combinando **APIs REST** y **endpoints SPARQL** para asegurar tanto una amplia cobertura de datos como un alto nivel de riqueza semántica.
+
 
 | Fuente                               | Tipo de acceso    | Función principal                                                                      |
 | ------------------------------------ | ----------------- | -------------------------------------------------------------------------------------- |
