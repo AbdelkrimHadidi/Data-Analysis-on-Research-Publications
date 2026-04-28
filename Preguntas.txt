@@ -1,0 +1,4 @@
+- ¿Si queremos modelar la similitud entre topics si usamos un bucle que se auto señale y que tenga como nombre el verbo "darp: similar to" estaría modelando la similitud temática?
+
+- ¿Se podría aplicar este mismo caso expuesto anteriormente a un paper cita a otro paper?
+
